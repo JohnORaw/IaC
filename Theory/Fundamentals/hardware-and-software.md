@@ -1,0 +1,15 @@
+# Hardware and Software
+
+The only kind of program a Central Processor Unit (CPU) can execute is one which has been written in machine code. This is a binary file, with a sequential list of instructions (or opcodes) and data (or operands). To see a machine code program, we need to use a hex editor, but whether we represent the program as hexadecimal or binary, it is just numbers. Review some of the instructions used by a modern CPU [here](https://en.wikipedia.org/wiki/X86\_instruction\_listings).&#x20;
+
+Humans do not understand pages of numbers very well, so we created the lowest level programming language possible, one where every instruction in a processor’s instruction set has a shortcut name, which makes sense to humans. If we had a machine code instruction 0x05 and it was a command to add two numbers, we could give it a mnemonic (or shortcut name) of ADD. Similarly, a machine code instruction 0xF7 to multiply two numbers might have the mnemonic MUL. We could write a full program in this assembly language, the mnemonics used in any instruction set. We could use an ordinary text editor to write this, and it would be human readable and understandable. Each instruction in this program would have a one-to-one correspondence with machine code instructions, so a program written in assembly language would be just as efficient as one written in machine code. One catch; the processor cannot understand an assembly language program.&#x20;
+
+To convert the text of an assembler program to executable machine code we need to compile it with a dedicated program which is called a compiler. For clarity, most Windows users use the extension .asm to designate an assembly language file. The assembler file may also be referred to as source code.&#x20;
+
+Building your own code in assembler is a bit like building a car from parts, it is very time consuming, very detailed. We want to take as much advantage as possible of the work we do. For that reason, in all programming languages, we tend to write our code in re-usable sections, called procedures or sub-routines. We also use classes, but that is a different story for much later in this module.&#x20;
+
+We rarely use assembler; it is a slow and difficult way to code. Instead, we use high-level languages. These are languages which are easier and more efficient for humans to use. In this module, we may see the C language, Python, and PowerShell.&#x20;
+
+When I am writing a project, I tend to use a very modular approach. Every time I need to do something I write the programme steps (or algorithm) as a single mini programme. I will also document this mini programme so that I can remember what it does the following year or in the case of some code I have written, the following decade\century\millennium!&#x20;
+
+The last big application I wrote looked like two months coding but using existing functions and class libraries, I had an alpha version working in a day. In any programming language, I recommend that you keep a track of all the code you have developed and that you develop your code in a modular way. We keep code in repositories, and we will look at that approach later in the module.
