@@ -1,0 +1,18 @@
+# Table of contents
+
+* [Introduction](README.md)
+* [Deliverables](deliverables.md)
+* [Working Environment](working-environment.md)
+* [The Command Line Interpreter (CLI)](the-command-line-interpreter-cli.md)
+* [Organizing Information](organizing-information/README.md)
+  * [Directories and File Structures](organizing-information/directories-and-file-structures.md)
+  * [Making, Deleting and Changing Directories](organizing-information/making-deleting-and-changing-directories.md)
+  * [Create a file from the console](organizing-information/create-a-file-from-the-console.md)
+  * [Copying, Moving and Deleting Files](organizing-information/copying-moving-and-deleting-files.md)
+  * [Paths](organizing-information/paths.md)
+  * [Moving around directories](organizing-information/moving-around-directories.md)
+* [Extensions](extensions.md)
+* [Wildcards](wildcards.md)
+* [Input and Output Redirection](input-and-output-redirection.md)
+* [Bulk Copying](bulk-copying.md)
+* [History](history.md)
