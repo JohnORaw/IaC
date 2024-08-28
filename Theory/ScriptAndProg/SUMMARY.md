@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Background](background.md)
+* [Background](README.md)
 * [Compiled Programming Languages](compiled-programming-languages/README.md)
   * [Source Code](compiled-programming-languages/source-code.md)
   * [Compiling](compiled-programming-languages/compiling.md)
