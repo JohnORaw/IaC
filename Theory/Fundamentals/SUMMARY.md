@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Background](background.md)
+* [Background](README.md)
 * [Hardware and Software](hardware-and-software.md)
 * [Operating Systems](operating-systems/README.md)
   * [MS-DOS](operating-systems/ms-dos.md)
