@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Background](README.md)
 * [Deliverables](deliverables.md)
 * [Working Environment](working-environment.md)
 * [The Command Line Interpreter (CLI)](the-command-line-interpreter-cli.md)

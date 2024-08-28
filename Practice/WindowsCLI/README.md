@@ -2,7 +2,7 @@
 description: Finding your way around this document
 ---
 
-# Introduction
+# Background
 
 I first started working with computer equipment back in the 1970s. My school got an Apple II, one of my neighbours got a Commodore VIC20 (look them up) and I got a book on programming from a friend. A few years later, I got to work on some of the early business computers, the first MAC and early business computers running an operating system called CPM. To operate these computers, with one or two floppy disk drives, required the ability to learn a disk operating system (DOS). It may sound bizarre, but the commands and approaches learned back then, are almost exactly the same as we use at the command prompt in a modern Windows computer.&#x20;
 
@@ -21,11 +21,3 @@ In our UNIX examples, we use the bash shell, however there are many others in co
 When you type a command, you run that programme and when it terminates, the shell gives the user another prompt. A user can customize his/her own shell, and users can use different shells on the same machine. The shell keeps a list of the commands you have typed in. If you need to repeat a command, use the cursor keys to scroll up and down the list or type history for a list of previous commands.
 
 In this document, there are several key terms. These will be _italicized_. You may need to look up these terms to get a full understanding of them. Commands are generally shown in **bold**.
-
-In these notes:
-
-I will assume your Windows home directory is&#x20;
-
-**C:\Users\\**_**username**_**\OneDrive - Atlantic TU\IaC\Week1**
-
-If you have a different path, adapt!
