@@ -4,7 +4,7 @@ description: Finding your way around this document
 
 # Introduction
 
-I first started working with computer equipment back in the 1970s. My school got an Apple II, one of my neighbors got a Commodore VIC20 (look them up) and I got a book on programming from a friend. A few years later, I got to work on some of the early business computers, the first MAC and the most early business computers running an operating system called CPM. To operate these computers, with one or two floppy disk drives, required the ability to learn a disk operating system (DOS). It may sound bizarre, but the commands and approaches learned back then, are almost exactly the same as we use at the command prompt in a modern Windows computer.&#x20;
+I first started working with computer equipment back in the 1970s. My school got an Apple II, one of my neighbours got a Commodore VIC20 (look them up) and I got a book on programming from a friend. A few years later, I got to work on some of the early business computers, the first MAC and early business computers running an operating system called CPM. To operate these computers, with one or two floppy disk drives, required the ability to learn a disk operating system (DOS). It may sound bizarre, but the commands and approaches learned back then, are almost exactly the same as we use at the command prompt in a modern Windows computer.&#x20;
 
 As I worked with larger computers in the 1980s, I began to work with the Unix command shell. Once again, nothing much has changed in the intervening years!
 
