@@ -2,7 +2,7 @@
 description: What to expect from these notes
 ---
 
-# Introduction
+# Getting started with practical work
 
 These are intended to be introductory notes to installing Python, Notepad++ and Visual Studio Code (VSC) and are to be used as part of my academic courses.&#x20;
 
@@ -33,9 +33,3 @@ I will assume your Linux home directory is&#x20;
 /home/_username_
 
 If you have a different path in either OS, adapt!
-
-### Copyright <a href="#copyright" id="copyright"></a>
-
-The content of these notes are (c) John ORaw 2024. I have tried to acknowledge and cite sources, if you think I have missed crediting someone else's work, please contact me at john.oraw@atu.ie
-
-If you find errors in my notes or something has been superseded without me noticing, please let me know.

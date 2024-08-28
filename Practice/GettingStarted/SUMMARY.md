@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Getting started with practical work](README.md)
 * [Install Python 3.x](install-python-3.x.md)
 * [Notepad++](notepad++.md)
 * [Visual Studio Code](visual-studio-code.md)
